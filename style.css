@@ -8,11 +8,11 @@ cabeçalho {
    }
   
    .cabecalho {
-   cor de fundo : #424E61 ;
-   cor : branco ;
-   exibição : flex ;
-   justificar-conteúdo : espaço-ao-redor ;
-   alinhar-itens : centro ;
+   cordefundo: #424E61 ;
+   cor:branco;
+   exibição:flex ;
+   justificar-conteúdo:espaço-ao-redor ;
+   /* alinhar-itens  centro ; */
    preenchimento : 24px 0 ;
    }
   
